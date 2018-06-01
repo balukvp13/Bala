@@ -15,6 +15,7 @@
 		621877FA20C115050028E106 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 621877F820C115050028E106 /* LaunchScreen.storyboard */; };
 		6218780520C115060028E106 /* GitExampleTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6218780420C115060028E106 /* GitExampleTests.m */; };
 		6218781020C115060028E106 /* GitExampleUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6218780F20C115060028E106 /* GitExampleUITests.m */; };
+		6218781E20C115390028E106 /* image001.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6218781D20C115390028E106 /* image001.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		6218780B20C115060028E106 /* GitExampleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GitExampleUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6218780F20C115060028E106 /* GitExampleUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GitExampleUITests.m; sourceTree = "<group>"; };
 		6218781120C115060028E106 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6218781D20C115390028E106 /* image001.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image001.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				621877EE20C115050028E106 /* AppDelegate.m */,
 				621877F020C115050028E106 /* ViewController.h */,
 				621877F120C115050028E106 /* ViewController.m */,
+				6218781D20C115390028E106 /* image001.jpg */,
 				621877F320C115050028E106 /* Main.storyboard */,
 				621877F620C115050028E106 /* Assets.xcassets */,
 				621877F820C115050028E106 /* LaunchScreen.storyboard */,
@@ -246,6 +249,7 @@
 				621877FA20C115050028E106 /* LaunchScreen.storyboard in Resources */,
 				621877F720C115050028E106 /* Assets.xcassets in Resources */,
 				621877F520C115050028E106 /* Main.storyboard in Resources */,
+				6218781E20C115390028E106 /* image001.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
